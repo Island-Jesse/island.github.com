@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Island
 
 You can use the [editor on GitHub](https://github.com/Island-Jesse/island.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
